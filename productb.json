@@ -1,0 +1,30 @@
+[
+    
+    {
+        "id": 4,
+        "name": "Oral-B ToothBrush",
+        "price": 310,
+        "image": "images/to3.jpg",
+        "description":"Advanced toothbrush designed to improve gum health "
+       
+    },
+    {
+        "id": 5,
+        "name": "Sensodyne ToothBrush",
+        "price": 240,
+        "image": "images/too9.jpg",
+        "description": "Experience the power of professional cleaning at home."
+    },
+    {
+        "id": 6,
+        "name": "Colgate ToothBrush",
+        "price": 180,
+        "image": "images/too2.jpg",
+        "description":"Revolutionizing brushing routine with gentle vibrations."
+    }
+  
+  
+]
+    
+
+

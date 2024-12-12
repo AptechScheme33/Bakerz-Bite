@@ -1,0 +1,36 @@
+[
+   
+  
+  
+ 
+
+    {
+        "id": 10,
+        "name": "Crest Mouthwash",
+        "price": 390,
+        "image": "images/m10.jpg",
+        "description": "Refreshing flavor that fights bad breath and make mouth clean."
+       
+    } ,
+   {
+        "id": 11,
+        "name": "Listerine Mouthwash",
+        "price":456,
+        "image": "images/m9.jpg",
+        "description":"Effective protection against plaque and bad breath for a confident smile."
+    },
+  
+    {
+        "id": 12,
+        "name": "Scope Mouthwash",
+        "price": 595,
+        "image": "images/m6.webp",
+        "description":"Powerful antiseptic formula for a deep clean and fresh breath."
+
+
+       
+    }
+]
+    
+
+

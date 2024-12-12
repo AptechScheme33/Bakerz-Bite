@@ -1,0 +1,35 @@
+[
+    {
+        "id": 7,
+        "name": "Invisalign Full",
+        "price":396,
+        "image": "images/in1.jpg",
+        "description":"Comprehensive aligners for complex cases."
+    },
+   
+    
+    {
+        "id": 8,
+        "name": "Invisalign Lite",
+        "price": 270,
+        "image": "images/in4.jpg",
+        "description":"Faster treatment for mild misalignments."
+    },
+    
+   
+    {
+        "id": 9,
+        "name": "Invisalign Express:",
+        "price": 310,
+        "image": "images/in7.jpg",
+        "description":" Quick fixes for minor adjustments."
+       
+    }
+  
+  
+  
+  
+]
+    
+
+

@@ -1,0 +1,33 @@
+[
+  
+   
+   
+    
+    {
+        "id": 16,
+        "name": "Sonicare Toothbrush",
+        "price": 165,
+        "image": "images/k3.jpg",
+        "description":"Designed for small mouths and helps kids reach all areas of their teeth."
+    },
+    {
+        "id": 17,
+        "name": "Philips Toothpaste ",
+        "price": 250,
+        "image": "images/kn8.jpg",
+        "description":"A natural option that is fluoride-free and made with safe ingredients."
+    },
+
+    {
+        "id": 18,
+        "name": "Shield U-Shaped Toothbrush",
+        "price": 120,
+        "image": "images/kn4.jpg",
+        "description":"The U-shaped brush head fits the dental arch, making it easier for children to brush"
+    }
+  
+  
+]
+    
+
+

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Colgate Toothpaste",
+        "price": 270,
+        "image": "images/t6.jpg",
+        "description":"Brightens teeth naturally while fighting stains"
+        
+    },
+    {
+        "id": 2,
+        "name": "Sensodyne Toothpaste",
+        "price": 165,
+        "image": "images/ti2.jpg",
+        "description":"Fluoride rich for strong and healthy enamel"
+    },
+  
+   
+    {
+        "id": 3,
+        "name": "Sonicare Toothpaste",
+        "price": 420,
+         "image": "images/t9.jpg",
+         "description":"Soft on sensitive teeth, strong on protection"
+        
+    }
+   
+  
+  
+]
+    
+
+
